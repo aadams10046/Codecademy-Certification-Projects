@@ -21,7 +21,7 @@ import seaborn as sns
 %matplotlib inline
 
 #loading the data
-df = pd.read_csv("all_data.csv")
+df = pd.read_csv("life_exp_gdp_data.csv")
 df.head()
 
 #exploring the data
